@@ -1,4 +1,4 @@
-# TODO task crud using redux toolkit and tailwindcss
+# TODO task crud with redux toolkit and tailwindcss
 
 <!-- ## Travis CI badges and github actions
 # Logo: Framework, tool, base of the project not all  -->
@@ -9,9 +9,8 @@
 
 <!-- ## Snapshots -->
 <p align="center">
-  <video src="https://github.com/escummy/redux-toolkit-task-crud/assets/90976678/6022a063-2f23-45a4-95db-0b25d75096aa" width="95%" title="TODO task with redux toolkit repository by escummy" alt="accessibility text" loop autoplay muted controls controlsList="nodownload"></video>
+  <img src="https://github.com/escummy/redux-toolkit-task-crud/assets/90976678/17fa2c62-a90a-47fc-8a49-1291715d8b61" width="95%" title="TODO task with redux toolkit repository by escummy" alt="accessibility text">
 </p>
-
 
 <br>
 
