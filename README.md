@@ -3,7 +3,7 @@
 <!-- ## Travis CI badges and github actions
 # Logo: Framework, tool, base of the project not all  -->
 
-> To do task crud created with react framwork and redux toolkit to show, edit and delete your task in the same place, measurements and colors can be easily modified with tailwindcss classes in the project.
+> To do task crud created with react framwork and redux toolkit to show, edit and delete your task in the same place, measurements and colors can be easily modified with tailwindcss classes.
 
 <br>
 
