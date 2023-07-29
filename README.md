@@ -1,4 +1,4 @@
-# TODO task crud with redux toolkit and tailwindcss
+# TODO task crud applying redux toolkit
 
 <!-- ## Travis CI badges and github actions
 # Logo: Framework, tool, base of the project not all  -->
